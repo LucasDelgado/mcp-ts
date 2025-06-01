@@ -83,7 +83,7 @@ Para contribuir al proyecto:
       "args": [
         "-y",
         "tsx",
-        "/Users/lucdelgado/Works/chop-mcp-ts/main.ts"
+        "{your}/chop-mcp-ts/main.ts"
       ]
     }
 ```
