@@ -2,6 +2,10 @@
 
 Este proyecto implementa un servidor MCP (Model Context Protocol) para interactuar con el sistema de Setups de Chop. Proporciona una interfaz para obtener información de setups a través de una API REST.
 
+<a href="https://glama.ai/mcp/servers/@LucasDelgado/mcp-ts">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@LucasDelgado/mcp-ts/badge" alt="Chop TypeScript MCP server" />
+</a>
+
 ## Características
 
 - Implementación del Model Context Protocol (MCP)
